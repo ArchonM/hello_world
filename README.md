@@ -1,2 +1,3 @@
 # hello_world
-some little interesting soft
+that is the folder for some little interesting softs
+
